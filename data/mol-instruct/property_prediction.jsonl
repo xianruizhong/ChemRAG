@@ -1,0 +1,100 @@
+{"id": 0, "question": "Can you give me the energy difference between the HOMO and LUMO orbitals of this molecule?\nMolecule: O=C1OCC2CC1C2", "golden_answers": [0.2756]}
+{"id": 1, "question": "What is the lowest unoccupied molecular orbital (LUMO) energy of this molecule?\nMolecule: CCC(=O)N(C)C(N)=O", "golden_answers": [-0.0064]}
+{"id": 2, "question": "Please provide the highest occupied molecular orbital (HOMO) energy of this molecule.\nMolecule: Cc1cocc1C(C)C", "golden_answers": [-0.2132]}
+{"id": 3, "question": "I need to know the HOMO-LUMO gap energy of this molecule, could you please provide it?\nMolecule: C#CC#CC(=O)NC=N", "golden_answers": [0.1823]}
+{"id": 4, "question": "What is the HOMO energy of this molecule?\nMolecule: CN1CC2(CC#N)CC12", "golden_answers": [-0.2191]}
+{"id": 5, "question": "What is the lowest unoccupied molecular orbital (LUMO) energy of this molecule?\nMolecule: CC(CC(C)O)=NO", "golden_answers": [0.0109]}
+{"id": 6, "question": "Please give me the HOMO-LUMO gap energy for this molecule.\nMolecule: CC(C)C1OC2C(C)C12", "golden_answers": [0.3105]}
+{"id": 7, "question": "Can you give me the energy difference between the HOMO and LUMO orbitals of this molecule?\nMolecule: O=C1CC2C3OC1C23", "golden_answers": [0.2129]}
+{"id": 8, "question": "Can you give me the energy difference between the HOMO and LUMO orbitals of this molecule?\nMolecule: CC1CC(C=O)=CC1=O", "golden_answers": [0.1529]}
+{"id": 9, "question": "I would like to know the HOMO energy of this molecule, could you please provide it?\nMolecule: C1CCOCCCOC1", "golden_answers": [-0.2391]}
+{"id": 10, "question": "Please provide the LUMO energy value for this molecule.\nMolecule: OCC12CC3CC1C2O3", "golden_answers": [0.0711]}
+{"id": 11, "question": "Can you tell me the value of the HOMO energy for this molecule?\nMolecule: OC1CC2=CCCCC21", "golden_answers": [-0.2351]}
+{"id": 12, "question": "Could you give me the LUMO energy value of this molecule?\nMolecule: CCC1[NH2+]C1CC(=O)[O-]", "golden_answers": [0.0261]}
+{"id": 13, "question": "Please provide the highest occupied molecular orbital (HOMO) energy of this molecule.\nMolecule: CC(C)n1ccc(O)c1", "golden_answers": [-0.181]}
+{"id": 14, "question": "What is the HOMO energy of this molecule?\nMolecule: O=CC1CN(CCO)C1", "golden_answers": [-0.2251]}
+{"id": 15, "question": "I would like to know the LUMO energy of this molecule, could you please provide it?\nMolecule: CC1C(=O)C2(C)CCC12", "golden_answers": [-0.0151]}
+{"id": 16, "question": "Please give me the HOMO-LUMO gap energy for this molecule.\nMolecule: C1C2C3C4C5C(C1N35)N24", "golden_answers": [0.2613]}
+{"id": 17, "question": "What is the HOMO level of energy for this molecule?\nMolecule: C1CC2(C1)CC1CC1C2", "golden_answers": [-0.2608]}
+{"id": 18, "question": "Please provide the gap between HOMO and LUMO of this molecule.\nMolecule: CCC1C=CC(C#N)C1", "golden_answers": [0.2619]}
+{"id": 19, "question": "What is the HOMO energy of this molecule?\nMolecule: CN1C(C#N)CC1CO", "golden_answers": [-0.244]}
+{"id": 20, "question": "I am interested in the LUMO energy of this molecule, could you tell me what it is?\nMolecule: c1nc2n(n1)C1CN2C1", "golden_answers": [0.0008]}
+{"id": 21, "question": "Please provide the gap between HOMO and LUMO of this molecule.\nMolecule: Oc1nn2ncnc2[nH]1", "golden_answers": [0.256]}
+{"id": 22, "question": "I would like to know the LUMO energy of this molecule, could you please provide it?\nMolecule: CC1=C(N)C(=N)NC1=O", "golden_answers": [-0.0517]}
+{"id": 23, "question": "I would like to know the HOMO-LUMO gap of this molecule, can you provide it?\nMolecule: CC1=CC2C3CN2C13", "golden_answers": [0.2121]}
+{"id": 24, "question": "Please provide the highest occupied molecular orbital (HOMO) energy value for this molecule.\nMolecule: C#CC1=CCC(=O)OC1", "golden_answers": [-0.2497]}
+{"id": 25, "question": "I would like to know the HOMO-LUMO gap of this molecule, can you provide it?\nMolecule: O=CCC12CC(=O)C1O2", "golden_answers": [0.2089]}
+{"id": 26, "question": "What is the lowest unoccupied molecular orbital (LUMO) energy of this molecule?\nMolecule: CC1C2CC1(C)C2(C)C", "golden_answers": [0.0847]}
+{"id": 27, "question": "I would like to know the HOMO-LUMO gap of this molecule, can you provide it?\nMolecule: CC(CO)C1COC1", "golden_answers": [0.3133]}
+{"id": 28, "question": "What is the highest occupied molecular orbital (HOMO) energy of this molecule?\nMolecule: CC1C2(O)C3NC3C12O", "golden_answers": [-0.1988]}
+{"id": 29, "question": "I would like to know the lowest unoccupied molecular orbital (LUMO) energy of this molecule, could you please provide it?\nMolecule: CN=C1OCC2C(C)N12", "golden_answers": [0.0346]}
+{"id": 30, "question": "I would like to know the HOMO-LUMO gap of this molecule, can you provide it?\nMolecule: O=C1CNC2CC2OC1", "golden_answers": [0.2044]}
+{"id": 31, "question": "Could you tell me the energy difference between HOMO and LUMO for this molecule?\nMolecule: CC(CC=O)C(O)CO", "golden_answers": [0.2259]}
+{"id": 32, "question": "I need to know the HOMO-LUMO gap energy of this molecule, could you please provide it?\nMolecule: C#CC12C3OC4C3C1C42", "golden_answers": [0.2709]}
+{"id": 33, "question": "Please provide the lowest unoccupied molecular orbital (LUMO) energy value for this molecule.\nMolecule: NC(=O)OC1CC2NC21", "golden_answers": [0.0581]}
+{"id": 34, "question": "I need to know the HOMO-LUMO gap energy of this molecule, could you please provide it?\nMolecule: NC1C2OC(=O)C12N", "golden_answers": [0.2338]}
+{"id": 35, "question": "What is the energy separation between the HOMO and LUMO of this molecule?\nMolecule: NC(=[NH2+])c1c[nH][cH-]c1=O", "golden_answers": [0.1848]}
+{"id": 36, "question": "What is the HOMO energy of this molecule?\nMolecule: N#CCC1CCOCO1", "golden_answers": [-0.2769]}
+{"id": 37, "question": "Please provide the gap between HOMO and LUMO of this molecule.\nMolecule: NC1=NCCC1=NO", "golden_answers": [0.188]}
+{"id": 38, "question": "I would like to know the highest occupied molecular orbital (HOMO) energy of this molecule, could you please provide it?\nMolecule: C1OC2C3N4CC3(O1)C24", "golden_answers": [-0.2492]}
+{"id": 39, "question": "Could you give me the HOMO energy value of this molecule?\nMolecule: O=C1C=CC(O)C1O", "golden_answers": [-0.2602]}
+{"id": 40, "question": "Please provide the HOMO energy value for this molecule.\nMolecule: Oc1coc(N2CC2)c1", "golden_answers": [-0.1849]}
+{"id": 41, "question": "Could you give me the LUMO energy value of this molecule?\nMolecule: CC1=CC2C(CO)C2C1", "golden_answers": [0.0191]}
+{"id": 42, "question": "Please give me the HOMO-LUMO gap energy for this molecule.\nMolecule: C1=CC2CC(C1)CO2", "golden_answers": [0.2482]}
+{"id": 43, "question": "Please provide the gap between HOMO and LUMO of this molecule.\nMolecule: CC12OC1C1COC2O1", "golden_answers": [0.3207]}
+{"id": 44, "question": "What is the highest occupied molecular orbital (HOMO) energy of this molecule?\nMolecule: CCC1OC(=O)C1(C)N", "golden_answers": [-0.2553]}
+{"id": 45, "question": "Please provide the highest occupied molecular orbital (HOMO) energy value for this molecule.\nMolecule: ON=C1C=CCC2NC12", "golden_answers": [-0.2193]}
+{"id": 46, "question": "I would like to know the LUMO energy of this molecule, could you please provide it?\nMolecule: CC12OC3C1C3(C)C2O", "golden_answers": [0.0817]}
+{"id": 47, "question": "I need to know the HOMO-LUMO gap energy of this molecule, could you please provide it?\nMolecule: CCC12OCC1OC2=O", "golden_answers": [0.2498]}
+{"id": 48, "question": "Could you tell me the energy difference between HOMO and LUMO for this molecule?\nMolecule: COC1CC2(CO)CC12", "golden_answers": [0.3202]}
+{"id": 49, "question": "I need to know the HOMO-LUMO gap energy of this molecule, could you please provide it?\nMolecule: N#CC12NC3C1C=CC32", "golden_answers": [0.219]}
+{"id": 50, "question": "Please give me the HOMO-LUMO gap energy for this molecule.\nMolecule: CC#CCNC(=O)CO", "golden_answers": [0.2651]}
+{"id": 51, "question": "Please provide the gap between HOMO and LUMO of this molecule.\nMolecule: OCC1OCC2CC2O1", "golden_answers": [0.3374]}
+{"id": 52, "question": "Please provide me with the LUMO energy value of this molecule.\nMolecule: CNc1coc(N)c1N", "golden_answers": [0.0426]}
+{"id": 53, "question": "Please provide the highest occupied molecular orbital (HOMO) energy value for this molecule.\nMolecule: C#CC1=NCC(CO)O1", "golden_answers": [-0.2521]}
+{"id": 54, "question": "Please provide the highest occupied molecular orbital (HOMO) energy of this molecule.\nMolecule: C#CC12CC1(C)CC2O", "golden_answers": [-0.2239]}
+{"id": 55, "question": "I am interested in the LUMO energy of this molecule, could you tell me what it is?\nMolecule: N#CCCC(O)C(N)=O", "golden_answers": [0.0]}
+{"id": 56, "question": "Please provide me with the HOMO energy value of this molecule.\nMolecule: CC1C2C3N1C(=O)C23O", "golden_answers": [-0.2446]}
+{"id": 57, "question": "Please provide the lowest unoccupied molecular orbital (LUMO) energy value for this molecule.\nMolecule: N#CC(O)C(N)CO", "golden_answers": [0.0234]}
+{"id": 58, "question": "I am interested in the HOMO energy of this molecule, could you tell me what it is?\nMolecule: N=c1cnc(N)c(O)o1", "golden_answers": [-0.1857]}
+{"id": 59, "question": "Please provide me with the LUMO energy value of this molecule.\nMolecule: CC1CN=C(N)C(=O)C1", "golden_answers": [-0.0553]}
+{"id": 60, "question": "What is the HOMO level of energy for this molecule?\nMolecule: CCN1CC1C1CC1C", "golden_answers": [-0.2156]}
+{"id": 61, "question": "Can you give me the energy difference between the HOMO and LUMO orbitals of this molecule?\nMolecule: O=CC1=CCCCC=C1", "golden_answers": [0.1732]}
+{"id": 62, "question": "Please provide me with the HOMO energy value of this molecule.\nMolecule: O=CC1NC12CCCC2", "golden_answers": [-0.2438]}
+{"id": 63, "question": "Please give me the HOMO-LUMO gap energy for this molecule.\nMolecule: CC(C)C12CCC1O2", "golden_answers": [0.3255]}
+{"id": 64, "question": "I am interested in the HOMO energy of this molecule, could you tell me what it is?\nMolecule: CC12CCC1CC2=NO", "golden_answers": [-0.2374]}
+{"id": 65, "question": "Could you tell me the energy difference between HOMO and LUMO for this molecule?\nMolecule: CCC1(CC(C)=O)CC1", "golden_answers": [0.226]}
+{"id": 66, "question": "What is the LUMO level of energy for this molecule?\nMolecule: C#CCC(=O)OC(C)=N", "golden_answers": [-0.0161]}
+{"id": 67, "question": "Please provide the highest occupied molecular orbital (HOMO) energy value for this molecule.\nMolecule: O=C1C2COC3CN2C13", "golden_answers": [-0.2387]}
+{"id": 68, "question": "I would like to know the HOMO energy of this molecule, could you please provide it?\nMolecule: CC1CCCC12CC2", "golden_answers": [-0.2573]}
+{"id": 69, "question": "Can you tell me the value of the HOMO energy for this molecule?\nMolecule: C#CC1=CC(=O)NC1", "golden_answers": [-0.2486]}
+{"id": 70, "question": "What is the HOMO energy of this molecule?\nMolecule: CC12CC3N1C2C31CN1", "golden_answers": [-0.2326]}
+{"id": 71, "question": "Please provide the highest occupied molecular orbital (HOMO) energy of this molecule.\nMolecule: C#CC(CC)C1OC1C", "golden_answers": [-0.2587]}
+{"id": 72, "question": "What is the HOMO-LUMO gap of this molecule?\nMolecule: N#CC12C(=N)NC1C2O", "golden_answers": [0.251]}
+{"id": 73, "question": "I would like to know the LUMO energy of this molecule, could you please provide it?\nMolecule: CN=C(C#N)N1CC1C", "golden_answers": [-0.0478]}
+{"id": 74, "question": "I am interested in the HOMO energy of this molecule, could you tell me what it is?\nMolecule: OC1CC2CC1C1CC21", "golden_answers": [-0.2478]}
+{"id": 75, "question": "Please provide the highest occupied molecular orbital (HOMO) energy value for this molecule.\nMolecule: C1=CC2(CN3CC32)OC1", "golden_answers": [-0.2308]}
+{"id": 76, "question": "Please provide me with the LUMO energy value of this molecule.\nMolecule: O=CCc1nc(O)n[nH]1", "golden_answers": [-0.0417]}
+{"id": 77, "question": "Please provide me with the HOMO energy value of this molecule.\nMolecule: Nc1cnc(F)nc1N", "golden_answers": [-0.2185]}
+{"id": 78, "question": "Can you tell me the value of the LUMO energy for this molecule?\nMolecule: OC1CC1(O)C1COC1", "golden_answers": [0.0592]}
+{"id": 79, "question": "What is the HOMO energy of this molecule?\nMolecule: CC12C=CCCC1(O)C2", "golden_answers": [-0.2278]}
+{"id": 80, "question": "Please provide the highest occupied molecular orbital (HOMO) energy of this molecule.\nMolecule: CN1C2C(=N)NC(=O)C21", "golden_answers": [-0.2455]}
+{"id": 81, "question": "Please provide me with the LUMO energy value of this molecule.\nMolecule: COCC(C[NH3+])C(=O)[O-]", "golden_answers": [0.0242]}
+{"id": 82, "question": "What is the HOMO energy of this molecule?\nMolecule: COc1nn(C)nc1O", "golden_answers": [-0.2052]}
+{"id": 83, "question": "Can you tell me the value of the LUMO energy for this molecule?\nMolecule: N=c1[nH]c(C2CO2)no1", "golden_answers": [-0.0156]}
+{"id": 84, "question": "What is the LUMO level of energy for this molecule?\nMolecule: CC(C)(C#N)C1(O)CC1", "golden_answers": [0.0332]}
+{"id": 85, "question": "I would like to know the HOMO-LUMO gap of this molecule, can you provide it?\nMolecule: C#CC1CC1CCO", "golden_answers": [0.2912]}
+{"id": 86, "question": "What is the HOMO-LUMO gap of this molecule?\nMolecule: C1=C2C(COC1)N1CC21", "golden_answers": [0.2346]}
+{"id": 87, "question": "Please provide the lowest unoccupied molecular orbital (LUMO) energy of this molecule.\nMolecule: CC12COC3CN1C32", "golden_answers": [0.0814]}
+{"id": 88, "question": "Could you tell me the energy difference between HOMO and LUMO for this molecule?\nMolecule: CC1[NH2+]C[C-](C=O)C1=O", "golden_answers": [0.1777]}
+{"id": 89, "question": "What is the LUMO energy of this molecule?\nMolecule: CCc1ncoc(=O)n1", "golden_answers": [-0.0791]}
+{"id": 90, "question": "Can you tell me the value of the HOMO energy for this molecule?\nMolecule: CCC1C2CC1(O)C2O", "golden_answers": [-0.2419]}
+{"id": 91, "question": "I would like to know the HOMO-LUMO gap of this molecule, can you provide it?\nMolecule: Cc1cnc(O)cn1", "golden_answers": [0.1939]}
+{"id": 92, "question": "I would like to know the LUMO energy of this molecule, could you please provide it?\nMolecule: CC#CC1(C)CC1", "golden_answers": [0.0633]}
+{"id": 93, "question": "Please provide the highest occupied molecular orbital (HOMO) energy of this molecule.\nMolecule: COCC(O)CC(N)=O", "golden_answers": [-0.2341]}
+{"id": 94, "question": "What is the HOMO level of energy for this molecule?\nMolecule: O=C1C(O)CC2CC12", "golden_answers": [-0.2338]}
+{"id": 95, "question": "Please provide the LUMO energy value for this molecule.\nMolecule: CCCC1OCOC1C", "golden_answers": [0.0879]}
+{"id": 96, "question": "What is the HOMO level of energy for this molecule?\nMolecule: N#CC1NCC2CC21", "golden_answers": [-0.249]}
+{"id": 97, "question": "What is the lowest unoccupied molecular orbital (LUMO) energy of this molecule?\nMolecule: CC12OCC1NC2=N", "golden_answers": [0.0215]}
+{"id": 98, "question": "Please provide the gap between HOMO and LUMO of this molecule.\nMolecule: CC1CC1(C=O)OC=O", "golden_answers": [0.2205]}
+{"id": 99, "question": "I would like to know the lowest unoccupied molecular orbital (LUMO) energy of this molecule, could you please provide it?\nMolecule: CC12C3C4C3C1(O)C42", "golden_answers": [0.0734]}
