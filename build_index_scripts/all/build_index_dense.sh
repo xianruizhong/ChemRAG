@@ -1,5 +1,6 @@
 #!/bin/bash
 
+model=""
 model_path=""
 corpus_path=""
 save_dir=""
